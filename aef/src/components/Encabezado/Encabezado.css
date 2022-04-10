@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+
+.Par{
+    background-color:'red';
+    color:'white';
+}
+
+.Impar{
+    background-color:'blue';
+    color:'white';
+}
